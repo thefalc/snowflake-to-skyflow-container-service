@@ -1,10 +1,10 @@
-# Translation Native App
+# Skyflow Detokenize Snowpark Container Service
 
 This is a simple Go web server that performs bulk detokenization requests with Skyflow. The intention
 is to run this using Snowpark Container Services in Snowflake to perform bulk detokenization from a
 query written in Snowflake.
 
-## Sample Native App script
+## Skyflow Detokenize Snowpark Container Service Script
 
 Before you can test the code, please follow the instructions for [Snowpark Container Services](https://docs.snowflake.com/en/developer-guide/snowpark-container-services/overview) to get the Docker container deployed.
 
